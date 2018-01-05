@@ -22,7 +22,7 @@
 #
 
 CURR_DIR=$PWD
-FILE=vector
+FILE=matrix
 
 APPS_DIR=$CURR_DIR/../../apps/
 
