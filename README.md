@@ -10,6 +10,8 @@ Add this folder into [Cingulata tests](https://github.com/CEA-LIST/Cingulata/tre
 
 	add_subdirectory(matrix)
 
+P.S. you should update [NR_THREADS](https://github.com/NanXiao/matrix/blob/3f40d92874eb89613e9d649f920a3d1f38ab0aae/run.sh#L40) to improve performance, e.g., 32.
+
 Reference:  
 [Hello world application with Cingulata](https://github.com/CEA-LIST/Cingulata/wiki/tutorial_hello).
 
